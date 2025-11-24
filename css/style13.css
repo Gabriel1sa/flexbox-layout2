@@ -1,0 +1,41 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ body {
+     background-color: #FFFFFF;
+     padding: 20px;
+ }
+
+ section {
+     display: flex;
+     gap: 60px;
+ }
+
+ #yellow-box {
+     background-color: #FFFF00;
+     height: 600px;
+     width: 600px;
+     border: 2px solid #000;
+ }
+
+ .right-column {
+     display: flex;
+     flex-direction: column;
+     gap: 45px;
+ }
+
+ #blue-box {
+     background-color:  #00B8E6;
+     height: 275px;
+     width: 650px;
+     border: 2px solid #000;
+ }
+
+ #gray-box {
+     background-color: #888888;
+     height: 275px;
+     width: 650px;
+     border: 2px solid #000;
+ }
